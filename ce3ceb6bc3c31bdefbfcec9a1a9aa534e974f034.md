@@ -1,4 +1,4 @@
-#Index Routes
+# Index Routes
 
 Rather than show a blank page at /invoices, let’s add an Index Route. Index Routes are just another child of a route, except their path is /. An Index Route will render when no other sibling matches the location.
 
